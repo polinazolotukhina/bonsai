@@ -1,6 +1,6 @@
 
 
-![Shop Page Default Look and browse](https://github.com/polinazolotukhina/bonsai/master/ezgif.com-video-to-gif.gif)
+![Shop Page Default Look and browse](https://github.com/polinazolotukhina/bonsai/commit/d50967643c3a65f2191c98a397bdcff00904fc25#diff-67d1cc4485dca4827851127ebf528743)
 
 
 
