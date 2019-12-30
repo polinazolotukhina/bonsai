@@ -1,7 +1,6 @@
-![Alt text](
-https://github.com/polinazolotukhina/bonsai/edit/master/ezgif.com-video-to-gif.gif)
 
 
+![Shop Page Default Look and browse](https://github.com/polinazolotukhina/bonsai/edit/master/ezgif.com-video-to-gif.gif)
 
 
 
