@@ -1,4 +1,4 @@
-What was done: The app saves product that user clicks to Mongodb, if user clicks product few times the quantity of this product in DB will increase accordinly. User can see the products he selected in the Cart. The button "show more" show more products to user. 
+What was done: The app saves product that user clicks to Mongodb, if user clicks product few times the quantity of this product in DB will increase accordinly. User can see the products he selected in the Cart. The button "More" show more products to user. 
 
 ![Shop Page Default Look and browse](https://github.com/polinazolotukhina/bonsai/blob/d50967643c3a65f2191c98a397bdcff00904fc25/ezgif.com-video-to-gif.gif)
 
