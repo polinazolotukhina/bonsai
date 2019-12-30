@@ -1,3 +1,10 @@
+![Alt text](
+https://github.com/polinazolotukhina/bonsai/edit/master/ezgif.com-video-to-gif.gif)
+
+
+
+
+
 # Bonsai React Interview Test
 
 Welcome to the creative interview test at Shop Bonsai.
